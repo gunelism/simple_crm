@@ -16,7 +16,7 @@ class Clients extends CI_Controller {
 		parent::__construct();
 		$this->load->model('crud_model');
 		$this->load->model('clients_model');
-		$this->data['title'] = 'Polygraphy / Clients';
+		$this->data['title'] = 'Banking system / Clients';
 		//$this->output->enable_profiler('TRUE');
 	}
 

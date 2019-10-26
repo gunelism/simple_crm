@@ -17,7 +17,7 @@ class Orders extends CI_Controller {
         $this->load->model('crud_model');
         $this->load->model('orders_model');
         $this->load->model('clients_model');
-        $this->data['title'] = 'Polygraphy / Orders';
+        $this->data['title'] = 'Banking system / Orders';
 //        $this->output->enable_profiler('TRUE');
     }
 

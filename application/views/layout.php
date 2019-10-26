@@ -24,7 +24,7 @@
   </head>
   <body>
     <div class="header">
-      <h1>Polygraphy</h1>
+      <h1>Banking system</h1>
     </div>
     <div class="container-fluid">
       <div class="row-fluid">      
